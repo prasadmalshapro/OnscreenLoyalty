@@ -1,0 +1,11 @@
+D:\PROJECTSX\OnscreenLoyalty\OnscreenLoyalty\OnscreenLoyalty\bin\Debug\OnscreenLoyalty.exe.config
+D:\PROJECTSX\OnscreenLoyalty\OnscreenLoyalty\OnscreenLoyalty\bin\Debug\OnscreenLoyalty.exe
+D:\PROJECTSX\OnscreenLoyalty\OnscreenLoyalty\OnscreenLoyalty\bin\Debug\OnscreenLoyalty.pdb
+D:\PROJECTSX\OnscreenLoyalty\OnscreenLoyalty\OnscreenLoyalty\obj\Debug\OnscreenLoyalty.csproj.AssemblyReference.cache
+D:\PROJECTSX\OnscreenLoyalty\OnscreenLoyalty\OnscreenLoyalty\obj\Debug\OnscreenLoyalty.Form1.resources
+D:\PROJECTSX\OnscreenLoyalty\OnscreenLoyalty\OnscreenLoyalty\obj\Debug\OnscreenLoyalty.Properties.Resources.resources
+D:\PROJECTSX\OnscreenLoyalty\OnscreenLoyalty\OnscreenLoyalty\obj\Debug\OnscreenLoyalty.csproj.GenerateResource.cache
+D:\PROJECTSX\OnscreenLoyalty\OnscreenLoyalty\OnscreenLoyalty\obj\Debug\OnscreenLoyalty.csproj.CoreCompileInputs.cache
+D:\PROJECTSX\OnscreenLoyalty\OnscreenLoyalty\OnscreenLoyalty\obj\Debug\OnscreenLoyalty.exe
+D:\PROJECTSX\OnscreenLoyalty\OnscreenLoyalty\OnscreenLoyalty\obj\Debug\OnscreenLoyalty.pdb
+D:\PROJECTSX\OnscreenLoyalty\OnscreenLoyalty\OnscreenLoyalty\obj\Debug\OnscreenLoyalty.Customer.resources
